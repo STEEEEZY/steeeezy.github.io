@@ -1,0 +1,9 @@
+[submodule "repo/repository.steeeezy/Addon Sources/skin.arctic.horizon.2"]
+	path = repo/repository.steeeezy/Addon Sources/skin.arctic.horizon.2
+	url = https://github.com/jurialmunkey/skin.arctic.horizon.2
+[submodule "repo/repository.steeeezy/skin.arctic.horizon.2"]
+	path = repo/repository.steeeezy/skin.arctic.horizon.2
+	url = https://github.com/jurialmunkey/skin.arctic.horizon.2
+[submodule "repo/repository.steeeezy/repository.tikipeter"]
+	path = repo/repository.steeeezy/repository.tikipeter
+	url = https://github.com/Tikipeter/repository.tikipeter
