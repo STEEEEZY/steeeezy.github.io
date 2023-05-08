@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.steeezy" name="STEEEEZY Alpha Repository" version="1" provider-name="STEEEEZY">
+<addon id="steeeezy.github.io" name="STEEEEZY Alpha Repository" version="1" provider-name="STEEEEZY">
     <extension point="xbmc.addon.repository" name="STEEEEZY Alpha Repository">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/STEEEEZY/repository.steeezy/master/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/STEEEEZY/repository.steeezy/master/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/STEEEEZY/repository.steeezy/master/repo/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/STEEEEZY/steeeezy.github.io/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/STEEEEZY/steeeezy.github.io/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/STEEEEZY/steeeezy.github.io/master/repo/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
